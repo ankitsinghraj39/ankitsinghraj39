@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankitsinghraj39
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Java and Web technologies
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning Web technologies
 - 📫 How to reach me ankitsinghraj39@gmail.com
 
 <!---
